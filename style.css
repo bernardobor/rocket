@@ -46,7 +46,9 @@ body * {
 }
 
 #profile img {
-  width: 112px;
+  width: 150px;
+  height: 150px;
+  clip-path:circle();
 }
 
 #profile p {
